@@ -1,4 +1,7 @@
-# python으로 구현
+# 3d 구현
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+</div>
 
 ![drawing3d](https://github.com/ldh-Hoon/3D_test/assets/139981434/e7d5597f-5471-44f2-b538-5cba6f3d65e5)
 
